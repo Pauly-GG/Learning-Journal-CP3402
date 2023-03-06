@@ -1,4 +1,6 @@
-# Learning Activities
+# Week 2 - Practical 1
+
+## Learning Activities
 
 This week I was tasked with working on my first practical for the subject. This involved creating a basic website for my startup business. To bring this website to fruition I used some basic and advanced HTML and CSS to create a simple website with three pages. I spent some time researching different design elements that would be suitable for my startup's website and used that information to create a visually appealing website that effectively communicated my startup's message.
 
