@@ -9,7 +9,6 @@ This week I was tasked with working on my first practical for the subject. This 
 I used the following resources to help me with my website design:
 
 - https://www.w3schools.com/ for HTML, CSS, and JavaScript reference
-- https://www.canva.com/ for design inspiration and image creation
 - https://fonts.google.com/ for choosing and implementing appropriate fonts
 - Youtube tutorials
 - First year web design lecture material
