@@ -20,7 +20,7 @@ I spent approximately 6 hours this week on creating and refining my website. App
 
 ## Content Insights
 
-I created a website called BusyBites that offers a subscription-based meal kit delivery service for busy professionals who want healthy and delicious home-cooked meals. The website has a simple and clean design that is easy to navigate, with a navigation bar that is consistent across all pages. I used a color scheme of green and purple, which gives the website a fresh and clean look. I also made sure to optimize images for web use, and structured the website with appropriate HTML tags for SEO purposes. The website has three pages: Home, About, and Meal Plans. Each page has a different layout, with the About page having a container with a border and padding, while the Meal Plans page has a section with multiple meal plan options.
+I used Notepad++ to create my startup website. I discovered that this IDE is not the most ideal for website development as there is no git integration or debugging tools. Because of these restrictions it made it quite difficult to optimise my code, perhaps in the future it would be an advantageous idea to start using a more user-friendly IDE such as VSCode. The website itself has a simple and clean design that is easy to navigate, with a navigation bar that is consistent across all pages. I also made sure to optimize images for web use, and structured the website with appropriate HTML tags for SEO purposes if required. The website has three pages: Home, About, and Meal Plans. I figured that an important feature of my website was user readability, therefore I made sure that text was large enough to read and that important information was centered on screen.
 
 ## Career/Employability/Learning Insights
 
