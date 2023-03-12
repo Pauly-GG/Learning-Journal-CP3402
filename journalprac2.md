@@ -6,13 +6,13 @@ This week, the focus was on the second practical of the subject, which involved 
 ## Resources and Links
 I used the following resources to help me with my website design:
 
-https://www.w3schools.com/css/ for CSS formatting
-https://aws.amazon.com/getting-started/hands-on/launch-a-wordpress-website/?fbclid=IwAR2tFvtHH_oymzlZXjV86llnemhSV3_o-dugpP6mqsSMX6Nt1hjs839d1IQ for assistance with configuring joomla
-Various Youtube tutorials on css customisation for the Cassiopeia template, such as:
+- https://www.w3schools.com/css/ for CSS formatting
+- https://aws.amazon.com/getting-started/hands-on/launch-a-wordpress-website/?fbclid=IwAR2tFvtHH_oymzlZXjV86llnemhSV3_o-dugpP6mqsSMX6Nt1hjs839d1IQ for assistance with configuring joomla
+- Various Youtube tutorials on css customisation for the Cassiopeia template, such as:
 https://youtube.com/playlist?list=PLtaXuX0nEZk_4XIvoPA7O0xT_sYRKnTos
 https://www.youtube.com/watch?v=gBM59A8x7Wg
 https://www.youtube.com/watch?v=ZwuBeeGgyw4
-Lecture material from the subject
+- Lecture material from the subject
 
 ## Estimated Hours
 I spent approximately 8 hours this week on researching Joomla and how to actually use it. Approximately 6 hours of which was spent figuring out how to change, add and modify various elements of the website. The other 2 hours was spent creating the website.
