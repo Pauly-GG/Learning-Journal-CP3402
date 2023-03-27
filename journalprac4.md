@@ -26,6 +26,7 @@ Having a local environment to work on allows for easy testing and debugging of y
 
 ## Career/Employability/Learning Insights:
 Learning about local hosts and setting up a local environment using XAMPP is a valuable skill for a web developer and for my future career. I know this is true because it allows you to develop and test websites locally, understand server configurations, and learn about database management, which are crucial skills in the web development industry.
+
 Having a deeper understanding of how local environments operate makes you more employable for several reasons.
 By having knowledge on local environments you can work with different tools and technologies, for example if you were required to work with a different local environment software that you were unfamiliar with, you would be more efficient in your understanding. Knowing how local environments work also assists with collaboration in the workplace. Being able to set up your own environment can allow you to more easily share code with others and collaborate.
 In summary, having a deeper understanding of how local environments operate can make you a more versatile, efficient and collaborative employee, which can ultimately make you more employable.
