@@ -3,7 +3,7 @@
 ## Learning Activities:
 This week I watched several YouTube tutorials that helped me learn about, and understand, how to run a localhost. These tutorials specifically taught me how to install and setup my localhost for WordPress integration. I also spent some time reading and researching the various parts of XAMPP, including what Apache is, and how it’s used for delivering web content. In addition to this I learnt how XAMPP utilises MySQL for database management.
 
-## Resources/ Links
+## Resources/ Links:
 Written Tutorials/Guides:
 -	https://www.ionos.com/digitalguide/server/tools/xampp-tutorial-create-your-own-local-test-server/ - XAMPP tutorial: installation and first steps
 -	https://www.javatpoint.com/xampp - XAMPP Tutorial
