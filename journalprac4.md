@@ -7,7 +7,7 @@ This week I watched several YouTube tutorials that helped me learn about, and un
 Written Tutorials/Guides:
 -	https://www.ionos.com/digitalguide/server/tools/xampp-tutorial-create-your-own-local-test-server/ - XAMPP tutorial: installation and first steps
 -	https://www.javatpoint.com/xampp - XAMPP Tutorial
-## YouTube Tutorials:
+YouTube Tutorials:
 -	https://www.youtube.com/watch?v=r0lDDeVkaks - XAMPP tutorial for beginners
 -	https://www.youtube.com/watch?v=-f8N4FEQWyY - How to Install XAMPP Server
 -	https://www.youtube.com/watch?v=Upw5QPhiQUY - How to Install WordPress on Localhost XAMPP
