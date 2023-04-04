@@ -7,9 +7,11 @@ This week I utilised various resources, such as YouTube videos and the official 
 Official WordPress Documentation:
 -	https://wordpress.com/support/themes/child-themes/ - Create a Child Theme
 -	https://developer.wordpress.org/themes/advanced-topics/child-themes/ - What is a Child Theme?
+
 Written Tutorials/Guides:
 -	https://www.wpbeginner.com/wp-themes/how-to-create-a-wordpress-child-theme-video/ - Beginner’s Guide – Create a WordPress Child Theme
 -	https://www.dreamhost.com/blog/how-to-create-wordpress-child-theme/ - Create WordPress Child Theme
+
 YouTube Videos:
 -	https://www.youtube.com/watch?v=OTpwp_BIXMg - How to make a Child Theme in WordPress
 -	https://www.youtube.com/watch?v=Wpc6FAsi7xI - Wordpress Child Theme | What Is It?
