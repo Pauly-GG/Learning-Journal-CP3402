@@ -9,6 +9,7 @@ Youtube Videos:
 -	https://www.youtube.com/watch?v=6drUzoeHZkg – Trello Beginner Guide
 Official VSCode Documentation:
 -	https://code.visualstudio.com/docs/sourcecontrol/overview#:~:text=You%20can%20type%20a%20commit,to%20change%20your%20commit%20settings - Using Git source control in VS Code
+
 GitHub Documentation:
 -	https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories - About Repositories
 
