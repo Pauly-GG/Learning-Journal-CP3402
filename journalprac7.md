@@ -10,11 +10,11 @@ YouTube Videos:
 -	https://www.youtube.com/watch?v=XBj_le81sAc – Introduction to PHP
 
 W3Schools Tutorials:
--	PHP Tutorial (w3schools.com) – PHP Tutorial
+-	https://www.w3schools.com/php/ – PHP Tutorial
 
 Written Tutorials/Guides:
--	PHP: The Basics - Manual – PHP The Basics
--	PHP Tutorial – PHP Tutorial
+-	https://www.php.net/manual/en/language.oop5.basic.php – PHP The Basics
+-	https://www.phptutorial.net/ – PHP Tutorial
 
 LinkedIn Articles:
 -	https://www.linkedin.com/pulse/best-php-frameworks-web-development-accupoint-softwaresolution - Best PHP Frameworks for Web Development
