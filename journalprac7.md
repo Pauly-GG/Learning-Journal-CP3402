@@ -1,4 +1,4 @@
-#Week 8 - Practical 7
+# Week 8 - Practical 7
 
 ## Learning Activities:
 
@@ -32,6 +32,8 @@ I learnt through online guides that PHP is a server-side scripting language that
 
 ## Career/Employability/Learning Insights:
 After completing this week’s practical I looked further into PHP programming, using some LinkedIn articles. One of the most interesting aspects of PHP that I learned about was the use of frameworks like Laravel, CodeIgniter, and Symfony to build complex web applications efficiently. I also discovered, through another article, that PHP can be used for machine learning and artificial intelligence applications, which I found very interesting.
+
 Having a good understanding of PHP is important for developers as it enables them to create dynamic web pages, handle forms, and interact with databases. These skills can be utilized to build custom web applications that meet the unique requirements of clients and users. This knowledge will be useful for my future career as it'll enhance my ability to build custom web applications that are highly functional and visually appealing.
+
 Reflecting on my learning strategy from this week I found that this time I was able to work most effectively by referring to W3Schools written tutorial pages. Compared to my usual learning approach of following a YouTube video at my own pace and pausing, when necessary, the method used in this week's practical was more effective. It allowed me to complete my work faster, I found that navigating to specific sections of the W3Schools website was a lot easier as opposed to searching for a whole YouTube video for each aspect of PHP.
 
