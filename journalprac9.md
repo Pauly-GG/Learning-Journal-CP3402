@@ -32,7 +32,7 @@ Sass is a CSS preprocessor that allows you to write more efficient and organized
 
 By learning Sass, developers can create more sophisticated stylesheets, which could improve the overall quality of a website. Sass could make me more employable as my CSS code will be more efficient compared to writing CSS code manually without using any preprocessor. This knowledge would make me a more valuable asset to any website development team, as I'd have a wider range of knowledge than just knowing how to write html and css.
 
-Upon reflection of my learning approach this week, I utilised the Pomodoro technique from the week 9 practical combined with my previous usual learning approach of following a YouTube video at my own pace and pausing when necessary. By combining these two techniques I was able to work more efficiently compared to just reading through an online guide or article, as more often than not, I'd get lost and unable to navigate to what the text is referencing.
+Upon reflection of my learning approach this week, I utilised the Pomodoro technique from the week 9 practical combined with my previous usual learning approach of following a YouTube video at my own pace and pausing when necessary. By combining these two techniques I was able to work more efficiently compared to just reading through an online guide or article, as more often than not, I'd get lost and unable to navigate to what the text is referencing, which became a little frustrating. However, when using my new learning approach I never felt lost as I could follow along with the video, and by taking breaks it prevented me from feeling frustrated.
 
 
 
