@@ -3,6 +3,7 @@
 ## Learning Activities:
 
 This week, I concentrated on the dual tasks of crafting my final learning journal and wrapping up the final assignment. I took measures to ensure that my journal was coherent and aligned with the examples provided on GitHub. I dedicated significant effort to fine-tune our WordPress website for the final assignment, ensuring it catered to the client's requirements and provided an optimum user experience. Given my primary involvement with the front-end CSS and SASS components, a significant portion of my time was devoted to debugging and optimizing these aspects. Assisting me in writing SASS and CSS was mostly by referring to code from previous practicals, and online resources such as W3Schools.
+
 Throughout this course, I've developed proficiency in managing content management systems like WordPress and Joomla, honed my ability to write SASS and PHP, and gained experience in group collaboration. My web development skills and general writing ability have also improved, which is evident from the feedback I've received over the semester.
 
 ## Resources/Links:
