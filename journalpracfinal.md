@@ -7,8 +7,11 @@ Throughout this course, I've developed proficiency in managing content managemen
 
 ## Resources/Link:
 [Markdown Guide](https://www.markdownguide.org/)
+
 [W3Schools CSS](https://www.w3schools.com/css/)
+
 [Learning Journal GitHub](https://github.com/CP3402/subject/wiki/Learning-Journals)
+
 [SASS Documentation](https://sass-lang.com/documentation/)
 
 ## Estimated Hours:
